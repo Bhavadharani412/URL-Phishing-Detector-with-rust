@@ -1,0 +1,12 @@
+@"
+# Rust / Cargo
+/target/
+/**/*.rs.bk
+**/*.rlib
+**/Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+"@ | Out-File -Encoding utf8 .gitignore
