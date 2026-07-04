@@ -39,5 +39,5 @@ Built with Rust, Clap, Reqwest, Regex, and Serde.
 Clone the repo (or use your own local copy):
 
 ```bash
-git clone https://github.com/your-username/url-phish-detector.git
+git clone https://github.com/Bhavadharani412/URL-Phishing-Detector-with-rust.git
 cd url-phish-detector
